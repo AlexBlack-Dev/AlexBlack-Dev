@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://alex-black.lol"><img src="https://img.shields.io/badge/website-alex--black.lol-5B9BFF?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-  <a href="mailto:alexblack.eng@gmail.com"><img src="https://img.shields.io/badge/email-alexblack.eng-5B9BFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/AlexBlack_Dev"><img src="https://img.shields.io/badge/telegram-%40AlexBlack__Dev-5B9BFF?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://alex-black.lol"><img src="https://img.shields.io/badge/website-alex--black.lol-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=5B9BFF" /></a>
+  <a href="mailto:alexblack.eng@gmail.com"><img src="https://img.shields.io/badge/email-alexblack.eng-0D1117?style=for-the-badge&logo=gmail&logoColor=5B9BFF" /></a>
+  <a href="https://t.me/AlexBlack_Dev"><img src="https://img.shields.io/badge/telegram-%40AlexBlack__Dev-0D1117?style=for-the-badge&logo=telegram&logoColor=5B9BFF" /></a>
 </p>
 
 ---
@@ -40,11 +40,14 @@ Backend, frontend, data, infrastructure — one engineer across the whole stack.
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=AlexBlack-Dev&theme=radical" />
+  <img src="https://ghstats.dev/api/card?username=AlexBlack-Dev&hide_border=true&title_color=5B9BFF&icon_color=5B9BFF&text_color=a9fef7&bg_color=0D1117" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexBlack-Dev&color=5B9BFF&style=flat-square&label=profile+views" />
+  <br />
+  <img src="https://img.shields.io/badge/Built%20with%20%E2%99%A5%20by%20Alex%20Black-0D1117?style=flat-square&logo=nextdotjs&logoColor=5B9BFF" />
+</p>
 </p>
