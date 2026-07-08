@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=5B9BFF&center=true&vCenter=true&width=435&lines=Alex+Black;Software+Engineer;Full-Stack+%7C+Systems+%7C+Infra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=5B9BFF&center=true&vCenter=true&width=500&lines=Alex+Black;Software+Engineer;Fullstack+%7C+Systems+%7C+Infra" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -16,12 +16,13 @@
 
 ### ⚡ About me
 
-I build systems from the core to the interface — backend, frontend, data, infrastructure. Three years of shipping real projects across the full stack.
+Backend, frontend, data, infrastructure — one engineer across the whole stack.
 
-- **Backend & systems:** Python, Node.js, C++, C#, .NET
-- **Frontend:** React, TypeScript, Next.js, Three.js
-- **Data:** PostgreSQL, MongoDB, Redis, MySQL
-- **Infrastructure:** REST, GraphQL, Docker, CI/CD
+- **Languages:** Python, TypeScript, JavaScript, C++, C#, SQL, HTML, CSS
+- **Backend & frameworks:** Node.js, .NET, Next.js, REST, GraphQL
+- **Frontend & creative:** React, Three.js, WebGL / GLSL, Framer Motion, Lenis, Canvas API
+- **Data & infra:** PostgreSQL, MongoDB, Redis, MySQL, Docker, Git, CI/CD
+- **Tools:** Tauri, Liquid Reveal, Scroll Story, Kinetic Type
 
 ---
 
@@ -30,16 +31,17 @@ I build systems from the core to the interface — backend, frontend, data, infr
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Frekos**](https://github.com/AlexBlack-Dev/frekos) | Independent design & engineering studio landing page | Liquid Reveal, Canvas, Lenis, Motion |
-| [**Aurevia**](https://github.com/AlexBlack-Dev/aurevia) | Cinematic scroll-driven experience around a bronze sculpture | three.js, GLSL, Scroll Story, 3D |
+| [**Aurevia**](https://github.com/AlexBlack-Dev/aurevia) | Cinematic scroll-driven experience around a bronze sculpture | Three.js, GLSL, Scroll Story, 3D |
 | [**Nexova**](https://github.com/AlexBlack-Dev/nexova) | Bold product landing page with video backdrop | Video, Glass UI, Kinetic Type |
+| [**Spire**](https://github.com/AlexBlack-Dev/spire) | Note-taking app built with Tauri v2 + React + TypeScript | Tauri, React, TypeScript |
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexBlack-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5B9BFF&icon_color=5B9BFF&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBlack-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5B9BFF&text_color=FFFFFF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexBlack-Dev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexBlack-Dev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
