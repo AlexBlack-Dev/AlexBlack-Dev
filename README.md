@@ -39,16 +39,12 @@ Backend, frontend, data, infrastructure — one engineer across the whole stack.
 
 ### 📊 GitHub stats
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://ghstats.dev/api/card?username=AlexBlack-Dev&hide_border=true&title_color=5B9BFF&icon_color=5B9BFF&text=a9fef7&bg=0D1117" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://ghstats.dev/api/langs?username=AlexBlack-Dev&layout=bar&hide_border=true&title_color=5B9BFF&text=a9fef7&bg=0D1117" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=AlexBlack-Dev&hide_border=true&title_color=5B9BFF&icon_color=5B9BFF&text=a9fef7&bg=0D1117" />
+</p>
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=AlexBlack-Dev&layout=bar&hide_border=true&title_color=5B9BFF&text=a9fef7&bg=0D1117" />
+</p>
 
 ---
 
