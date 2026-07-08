@@ -40,8 +40,7 @@ Backend, frontend, data, infrastructure — one engineer across the whole stack.
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexBlack-Dev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexBlack-Dev&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=AlexBlack-Dev&theme=radical" />
 </p>
 
 ---
