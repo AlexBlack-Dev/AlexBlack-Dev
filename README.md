@@ -30,6 +30,13 @@ Backend, frontend, data, infrastructure — one engineer across the whole stack.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Particle Field**](https://github.com/AlexBlack-Dev/particle-field) | Interactive 3D particle field — 6000 points, custom shaders, mouse-responsive | Three.js, WebGL, GLSL |
+| [**Snake Reef**](https://github.com/AlexBlack-Dev/snake-reef) | Canvas snake game with obstacles, glowing orbs, gradient snake | Canvas, JavaScript |
+| [**file-org**](https://github.com/AlexBlack-Dev/file-org) | Organise files by category — CLI tool | Python, CLI |
+| [**slugify**](https://github.com/AlexBlack-Dev/slugify) | Transliterate & slugify strings — npm package | TypeScript, Node.js |
+| [**Clipboard History**](https://github.com/AlexBlack-Dev/clipboard-history) | Desktop clipboard manager — Tauri v2 | Tauri, Rust, React |
 | [**Frekos**](https://github.com/AlexBlack-Dev/frekos) | Independent design & engineering studio landing page | Liquid Reveal, Canvas, Lenis, Motion |
 | [**Aurevia**](https://github.com/AlexBlack-Dev/aurevia) | Cinematic scroll-driven experience around a bronze sculpture | Three.js, GLSL, Scroll Story, 3D |
 | [**Nexova**](https://github.com/AlexBlack-Dev/nexova) | Bold product landing page with video backdrop | Video, Glass UI, Kinetic Type |
