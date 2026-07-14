@@ -30,8 +30,6 @@ Backend, frontend, data, infrastructure — one engineer across the whole stack.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Project | Description | Stack |
-|---------|-------------|-------|
 | [**Particle Field**](https://github.com/AlexBlack-Dev/particle-field) | Interactive 3D particle field — 6000 points, custom shaders, mouse-responsive | Three.js, WebGL, GLSL |
 | [**Snake Reef**](https://github.com/AlexBlack-Dev/snake-reef) | Canvas snake game with obstacles, glowing orbs, gradient snake | Canvas, JavaScript |
 | [**file-org**](https://github.com/AlexBlack-Dev/file-org) | Organise files by category — CLI tool | Python, CLI |
